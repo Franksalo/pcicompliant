@@ -47,3 +47,7 @@ https://www.drupal.org/docs/7/installing-drupal-7/step-1-download-and-extract-dr
 http://avi.alkalay.net/2011/05/install-drupal-7-with-drush-from-git.html (Automation of drupal)
 https://wiki.civicrm.org/confluence/display/CRMDOC/Installing+CiviCRM+for+Drupal+7 (Install CiviCRM for drupal 7)
 https://sites.google.com/site/pawarnitesh/home/civicrm/civi_drash (Install CiviCRM automatically)
+https://groups.drupal.org/node/388488 (Nginx with drupal)
+https://github.com/perusio/drupal-with-nginx (Nginx with drupal)
+https://groups.drupal.org/node/387913 (Nginx with drupal)
+https://github.com/michaelmcandrew/scout/blob/master/templates/project.nginx.site.template (Nginx with civicrm)
